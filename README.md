@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+* [x] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+- [x] Simple UI that follows iOS Design Language
 - [x] Support for Dividing Bill between Multiple People
 - [x] Dark Mode Support
 
