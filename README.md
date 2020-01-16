@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 - [x] Simple UI that follows iOS Design Language
 - [x] Support for Dividing Bill between Multiple People
-- [x] Dark Mode Support
+- [x] iOS 13 Dark Mode Support 
 - [x] Launch Screen with Tip Perecnt Logo
 
 ## Video Walkthrough 
