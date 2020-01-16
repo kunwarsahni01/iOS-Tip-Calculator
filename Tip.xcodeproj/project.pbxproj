@@ -15,6 +15,7 @@
 		9721F35C23CFD2F2001B8181 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9721F35A23CFD2F2001B8181 /* LaunchScreen.storyboard */; };
 		9721F36723CFD2F2001B8181 /* TipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9721F36623CFD2F2001B8181 /* TipTests.swift */; };
 		9721F37223CFD2F2001B8181 /* TipUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9721F37123CFD2F2001B8181 /* TipUITests.swift */; };
+		9721F38023CFDD0E001B8181 /* NavViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9721F37F23CFDD0E001B8181 /* NavViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9721F36D23CFD2F2001B8181 /* TipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9721F37123CFD2F2001B8181 /* TipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipUITests.swift; sourceTree = "<group>"; };
 		9721F37323CFD2F2001B8181 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9721F37F23CFDD0E001B8181 /* NavViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9721F35323CFD2F1001B8181 /* ViewController.swift */,
 				9721F35523CFD2F1001B8181 /* Main.storyboard */,
 				9721F35823CFD2F2001B8181 /* Assets.xcassets */,
+				9721F37F23CFDD0E001B8181 /* NavViewController.swift */,
 				9721F35A23CFD2F2001B8181 /* LaunchScreen.storyboard */,
 				9721F35D23CFD2F2001B8181 /* Info.plist */,
 			);
@@ -261,6 +264,7 @@
 			files = (
 				9721F35423CFD2F1001B8181 /* ViewController.swift in Sources */,
 				9721F35023CFD2F1001B8181 /* AppDelegate.swift in Sources */,
+				9721F38023CFDD0E001B8181 /* NavViewController.swift in Sources */,
 				9721F35223CFD2F1001B8181 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
