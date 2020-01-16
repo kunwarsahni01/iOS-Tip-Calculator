@@ -29,6 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+
 ![tipGif](https://user-images.githubusercontent.com/22580992/72545949-e4ca6100-3857-11ea-9837-51a73340c2c3.gif)
 
 ## Notes
