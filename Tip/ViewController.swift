@@ -30,6 +30,13 @@ class ViewController: UIViewController {
         let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: #selector(UIInputViewController.dismissKeyboard))
         view.addGestureRecognizer(tap)
     }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        let defaults = UserDefaults.standard
+        let tipDefault = defaults.integer(forKey: "Tip")
+        tipSelection.selectedSegmentIndex = tipDefault
+    }
 
     @IBAction func calculateTip(_ sender: Any) {
         let bill = Double(billAmount.text!) ?? 0
