@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+* [x] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -22,17 +22,19 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+- [x] Simple UI that follows iOS Design Language
 - [x] Support for Dividing Bill between Multiple People
-- [x] Dark Mode Support
+- [x] iOS 13 Dark Mode Support 
+- [x] Launch Screen with Tip Perecnt Logo
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![tipGif](https://user-images.githubusercontent.com/22580992/72545949-e4ca6100-3857-11ea-9837-51a73340c2c3.gif)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+None
