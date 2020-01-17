@@ -37,7 +37,7 @@ class ViewController: UIViewController {
         let tipDefault = defaults.integer(forKey: "Tip")
         tipSelection.selectedSegmentIndex = tipDefault
     }
-
+  
     @IBAction func calculateTip(_ sender: Any) {
         let bill = Double(billAmount.text!) ?? 0
         let peopleNum = peopleStepper.value
