@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Settings page to change the default tip percentage.
+- [x] Settings page to change the default tip percentage (which is saved acroos app restarts).
 - [x] Simple UI that follows iOS Design Language
 - [x] Support for Dividing Bill between Multiple People
 - [x] iOS 13 Dark Mode Support 
@@ -32,9 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![tipGif](https://user-images.githubusercontent.com/22580992/72545949-e4ca6100-3857-11ea-9837-51a73340c2c3.gif)
 
 ## Notes
 
