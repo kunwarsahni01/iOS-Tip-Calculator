@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Settings page to change the default tip percentage (which is saved acroos app restarts).
+- [x] Settings page to change the default tip percentage (which is saved across app restarts).
 - [x] Simple UI that follows iOS Design Language
 - [x] Support for Dividing Bill between Multiple People
 - [x] iOS 13 Dark Mode Support 
